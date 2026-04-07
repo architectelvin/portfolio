@@ -49,6 +49,26 @@ const projects = [
     demo: 'https://flight-booking-sysem.vercel.app/',
     image: 'flight-booking.jpg',
   },
+  {
+    id: 6,
+    title: 'Delivery Mtaani',
+    description:
+      'A local delivery platform connecting customers with nearby delivery services for quick and efficient package delivery within neighborhoods.',
+    technologies: ['React', 'Vite', 'Express', 'MongoDB'],
+    github: 'https://github.com/tabuelvin7-art/delivery-mtaani.git',
+    demo: 'https://delivery-mtaani.vercel.app/',
+    image: 'delivery-mtaani.jpg',
+  },
+  {
+    id: 7,
+    title: 'Seed Locator',
+    description:
+      'An agricultural platform helping farmers locate and access quality seeds, connect with suppliers, and get information about seed varieties suitable for their region.',
+    technologies: ['React', 'Next.js', 'Express', 'MongoDB'],
+    github: 'https://github.com/tabuelvin7-art/seed-locator.git',
+    demo: 'https://seed-locator.vercel.app/',
+    image: 'seed-locator.jpg',
+  },
 ];
 
 export default projects;
